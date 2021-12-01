@@ -3,7 +3,7 @@ pipeline
   agent any
   stages
   {
-  stage('executing command')
+  stage ('executing command')
     {
       steps
       {
